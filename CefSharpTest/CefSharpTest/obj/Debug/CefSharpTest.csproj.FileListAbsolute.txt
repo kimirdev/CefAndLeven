@@ -1,0 +1,10 @@
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\bin\Debug\CefSharpTest.exe.config
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\bin\Debug\CefSharpTest.exe
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\bin\Debug\CefSharpTest.pdb
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\obj\Debug\CefSharpTest.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\obj\Debug\CefSharpTest.Form1.resources
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\obj\Debug\CefSharpTest.Properties.Resources.resources
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\obj\Debug\CefSharpTest.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\obj\Debug\CefSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\obj\Debug\CefSharpTest.exe
+C:\Users\roman\source\repos\CefSharpTest\CefSharpTest\obj\Debug\CefSharpTest.pdb

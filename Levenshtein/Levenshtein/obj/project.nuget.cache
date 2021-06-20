@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DEnx9T8ULkZ5cuRAOfNXenKOSu7Z3OiyAIW8LkF4t3HPEjvz0Uxkuf8c3uGrG95zZIhW4JMVauSbUwfxLroq8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roman\\source\\repos\\Levenshtein\\Levenshtein\\Levenshtein.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

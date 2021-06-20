@@ -1,0 +1,13 @@
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\bin\Debug\netcoreapp3.1\Levenshtein.exe
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\bin\Debug\netcoreapp3.1\Levenshtein.deps.json
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\bin\Debug\netcoreapp3.1\Levenshtein.runtimeconfig.json
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\bin\Debug\netcoreapp3.1\Levenshtein.runtimeconfig.dev.json
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\bin\Debug\netcoreapp3.1\Levenshtein.dll
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\bin\Debug\netcoreapp3.1\Levenshtein.pdb
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\obj\Debug\netcoreapp3.1\Levenshtein.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\obj\Debug\netcoreapp3.1\Levenshtein.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\obj\Debug\netcoreapp3.1\Levenshtein.AssemblyInfo.cs
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\obj\Debug\netcoreapp3.1\Levenshtein.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\obj\Debug\netcoreapp3.1\Levenshtein.dll
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\obj\Debug\netcoreapp3.1\Levenshtein.pdb
+C:\Users\roman\source\repos\Levenshtein\Levenshtein\obj\Debug\netcoreapp3.1\Levenshtein.genruntimeconfig.cache
